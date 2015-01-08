@@ -9,6 +9,7 @@
 
 // Simplifed xv6 shell.
 // wang17 today
+// fuck
 #define MAXARGS 10
 
 // All commands have at least a type. Have looked at the type, the code
