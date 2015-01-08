@@ -8,7 +8,7 @@
 #include <sys/stat.h>
 
 // Simplifed xv6 shell.
-
+// wang17 today
 #define MAXARGS 10
 
 // All commands have at least a type. Have looked at the type, the code
