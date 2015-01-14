@@ -1,5 +1,3 @@
-// for testing
-// test2
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdio.h>
@@ -9,9 +7,6 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 
-// Simplifed xv6 shell.
-// wang17 today
-// fuck
 #define MAXARGS 10
 
 // All commands have at least a type. Have looked at the type, the code
